@@ -1,6 +1,6 @@
 # Data Submission
 
-## Before Submissin
+## Before Submitting
 
 We ask for three things to be submittied:
 
