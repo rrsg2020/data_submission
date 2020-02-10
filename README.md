@@ -2,7 +2,7 @@
 
 ## Before Submitting
 
-We ask for three things to be submittied:
+We ask for three things to be submitted:
 
 1. Folder container all raw data exported directly from scanner, if possible (e.g. DICOM)
    * This is to preserve any header information that could be lost when converting or manually writing the YAML file.
