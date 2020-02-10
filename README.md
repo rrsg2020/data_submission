@@ -1,4 +1,4 @@
-# Data Submission
+# Data Submission for the RRSG/qMRISG ISMRM 2020 Challenge
 
 ## Before Submitting
 
