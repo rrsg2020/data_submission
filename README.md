@@ -9,8 +9,9 @@ We ask for three things to be submittied:
 2. For each inversion recovery measurement, 1 (or 2) NIFTI file(s) with inversion times in the "time" dimension
    * One file if magnitude-only, two files if data is complex.
    * If complex, can be magnitude and phase, or real and imaginary
-A YAML file with all other details
-Both with same filenames
+1. For NIFTI file, a YAML file with all other details
+   * The YAML file should have the same filename as the NIFTI file but with a "\*.yaml" file extension.
+   * The YAML should follow the same template as those included in the sample submission (see section below).
 
 ## Submission Process
 
@@ -20,3 +21,7 @@ Both with same filenames
 * When you believe your data is ready for quality assurance review, comment on your issue saying so.
 * The person assigned to handle your submission will share with you a Google Drive link where you can upload your data, which they will review.
 * After passing quality assurance, the issue will be closed and your data will be uploaded to the open-source [OSF.io repository](https://osf.io/ywc9g/) for this challenge.
+
+## Sample submission
+
+We've uploaded a sample dataset that adheres to the requirements laid out above on OSF.io: https://osf.io/9j3pa/. Please download and try to prepare your dataset in a similar format prior to beginning the submission process.
