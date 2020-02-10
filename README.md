@@ -9,14 +9,14 @@ We ask for three things to be submittied:
 2. For each inversion recovery measurement, 1 (or 2) NIFTI file(s) with inversion times in the "time" dimension
    * One file if magnitude-only, two files if data is complex.
    * If complex, can be magnitude and phase, or real and imaginary
-1. For NIFTI file, a YAML file with all other details
+1. For NIFTI file, a YAML file with all of the details necessary about the dataset for the challenge.
    * The YAML file should have the same filename as the NIFTI file but with a "\*.yaml" file extension.
    * The YAML should follow the same template as those included in the sample submission (see section below).
 
 ## Submission Process
 
 * [Create a GitHub account](https://github.com/join) if you don't have one yet (free and quick).
-* [Open an issue](https://github.com/rrsg2020/data_submission/issues/new) in this repository.
+* [Open an issue](https://github.com/rrsg2020/data_submission/issues/new?assignees=&labels=&template=data-submission-request.md&title=) in this repository.
 * Go through the checklist to ensure your data is ready for submission.
 * When you believe your data is ready for quality assurance review, comment on your issue saying so.
 * The person assigned to handle your submission will share with you a Google Drive link where you can upload your data, which they will review.
