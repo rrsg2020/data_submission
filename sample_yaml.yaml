@@ -1,0 +1,37 @@
+datatype: "magnitude" # magnitude, phase, real, imaginary
+
+submitter:
+    contact: "Mathieu Boudreau"
+    email: "mathieu.boudreau2@mail.mcgill.ca"
+
+site:
+  name: "Montreal Heart Institute"
+  manufacturer: "Siemens"
+  version: "Skyra VE11C"
+  field: 3.0
+
+sample:
+    type: "NIST"
+    version: 1.0
+    temperature: 22.1 # In celsius
+    #type: "Human"
+    #    age: 30
+    #    sex: male
+    #    weight: 80 # in kg
+
+sequence:
+    name: "t2_tse_dark-fluid_cor"
+    type: "Spin-echo inversion recovery"
+    matrix_size: [256 256 1]
+    resolution: [1 1 2] # in mm
+    dimension: 2D # 2D or 3D
+    repetition_time: 2550.0 # in ms
+    echo_time: 16.0 #in ms
+    inversion_times: [50, 400, 1100, 2400] #in ms
+    fat_sat: false
+    bandwidth: 287 # Hz/Px
+    kspace: #leave items blank if none, and add custom items if needed
+        partial_fourier:
+        parallel:
+            type: 
+            factor:
