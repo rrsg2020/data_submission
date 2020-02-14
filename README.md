@@ -4,7 +4,7 @@
 
 We ask for three things to be submitted:
 
-1. Folder container all raw data exported directly from scanner, if possible (e.g. DICOM)
+1. Folder containing all raw data exported directly from scanner, if possible (e.g. DICOM)
    * This is to preserve any header information that could be lost when converting or manually writing the YAML file.
 2. For each inversion recovery measurement, 1 (or 2) NIFTI file(s) with inversion times in the "time" dimension
    * One file if magnitude-only, two files if data is complex.
