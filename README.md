@@ -25,3 +25,11 @@ We ask for three things to be submitted:
 ## Sample submission
 
 We've uploaded a sample dataset that adheres to the requirements laid out above on OSF.io: https://osf.io/9j3pa/. Please download and try to prepare your dataset in a similar format prior to beginning the submission process.
+
+## Demo processing notebook
+
+A demo Jupyter notebook that processes a T<sub>1</sub> map from the sample submission above is available through MyBinder, which lets you see the processing from start to finish in your browser without the need of installing anything. You can click the button below to test it out (notebook takes ~10-15 minutes to run).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rrsg2020/demo/master?filepath=demo%2Fdemo.ipynb)
+
+During the review process of your submission, we'll test it using this (or a similar) script. Note that this demo was only written to work for magnitude data, and a script for complex data will be added later.
