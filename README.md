@@ -11,7 +11,7 @@ We ask for three things to be submitted:
    * If complex, can be magnitude and phase, or real and imaginary
 1. For NIFTI file, a YAML file with all of the details necessary about the dataset for the challenge.
    * The YAML file should have the same filename as the NIFTI file but with a "\*.yaml" file extension.
-   * The YAML should follow the same template as those included in the sample submission (see section below).
+   * The YAML should follow the same template as those included in the sample submission (see section below). You can  also preview it [here](https://github.com/rrsg2020/data_submission/blob/master/sample_yaml.yaml) on GitHub.
 
 ## Submission Process
 
