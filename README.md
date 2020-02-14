@@ -21,7 +21,7 @@ We ask for three things to be submitted:
 * When you believe your data is ready for quality assurance review, comment on your issue saying so, and email a link to a Google Drive folder (or other online data sharing service) containing your data to: rrsg.challenge@gmail.com.
 * After passing quality assurance, the issue will be closed and your data will be uploaded to the open-source [OSF.io repository](https://osf.io/ywc9g/) for this challenge.
 
-A sample submission was done by @agahkarakuzu in [this issue](https://github.com/rrsg2020/data_submission/issues/3), with some additional useful tips from his experience in setting up his data correctly. These and other tips will be added to an FAQ of this README file soon.
+A sample submission was done by [@agahkarakuzu](http://github.com/agahkarakuzu/) in [this issue](https://github.com/rrsg2020/data_submission/issues/3), with some additional useful tips from his experience in setting up his data correctly. These and other tips will be added to an FAQ of this README file soon.
 
 ## Sample submission
 
