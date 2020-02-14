@@ -18,8 +18,7 @@ We ask for three things to be submitted:
 * [Create a GitHub account](https://github.com/join) if you don't have one yet (free and quick).
 * [Open an issue](https://github.com/rrsg2020/data_submission/issues/new?assignees=&labels=&template=data-submission-request.md&title=) in this repository.
 * Go through the checklist to ensure your data is ready for submission.
-* When you believe your data is ready for quality assurance review, comment on your issue saying so.
-* The person assigned to handle your submission will share with you a Google Drive link where you can upload your data, which they will review.
+* When you believe your data is ready for quality assurance review, comment on your issue saying so, and email a link to a Google Drive folder (or other online data sharing service) containing your data to: rrsg.challenge@gmail.com.
 * After passing quality assurance, the issue will be closed and your data will be uploaded to the open-source [OSF.io repository](https://osf.io/ywc9g/) for this challenge.
 
 ## Sample submission
