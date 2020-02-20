@@ -1,7 +1,7 @@
 FROM qmrlab/mcrcli:vRRSG
 
 RUN cd $HOME;   \
-    git clone --single-branch -b master https://github.com/rrsg2020/demo.git
+    git clone --single-branch -b issue_06 https://github.com/rrsg2020/data_submission.git
 
 WORKDIR $HOME
 
