@@ -9,7 +9,7 @@ assignees: ''
 
 **Name**: (INSERT_NAME)
 
-**Number of datasets (sets of inversion recovery measurements**: (INSERT NUMBER)
+**Number of datasets (sets of inversion recovery measurements)**: (INSERT NUMBER)
 
 Submission Checklist:
 
